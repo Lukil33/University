@@ -1,0 +1,9 @@
+5 2 6
+1 EfnccJSqUyOsYGO 50
+2 XWMsVGHynvrEspF 100
+2 2 XWMsVGHynvrEspF 7
+2 1 EfnccJSqUyOsYGO 4
+4 1 EfnccJSqUyOsYGO 10
+1 1 EfnccJSqUyOsYGO 5
+1 2 bWWinauoIIDfKpz 6
+1 1 EfnccJSqUyOsYGO 25

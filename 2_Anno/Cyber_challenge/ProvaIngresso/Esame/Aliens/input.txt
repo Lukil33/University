@@ -1,0 +1,13 @@
+12
+del
+add G
+add q
+add F
+del
+swap q h
+add Y
+add y
+rot 21
+swap a F
+add j
+swap 1 j
