@@ -1,0 +1,21 @@
+Acronimi:
+
+AR -> Algebra relazionale
+DBMS -> Database managment system
+DDL -> Data definition language
+DML -> Data manipulation language
+FK -> Foreign key
+OLAP -> Online analytical processing
+OLTP -> Online transaction processing
+PK -> Primary key
+SQL -> Structured query lenguage
+
+Vincoli:
+
+Vincolo di dominio -> Il valore di un attributo di una relazione appartenga a un dominio predefinito D.
+
+Vincolo di chiave -> Un sottoinsieme di attributi di una relazione sia tale da garantire l'unicità e l'identificabilità di ciascuna tupla (riga) della relazione stessa.
+
+Vincolo di integrità dell'entità -> Ogni tupla di una relazione è identificabile univocamente e i valori degli attributi appartenenti alla chiave primaria non possano mai essere NULL.
+
+Vincolo di integrità referenziale -> Un database relazionale garantisce che i valori di una chiave esterna in una tabella siano sempre coerenti con i valori della chiave primaria o di una chiave candidata nella tabella di riferimento.
