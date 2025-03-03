@@ -1,0 +1,7 @@
+Pagine dalle quali studiare:
+
+Authentication II: 7/8; 7; 19/24; 31; 31; 32/35; 42/44; 45; 49 63; 66/67;
+Access Control I: 4; 1 8/19; 32/40 54/61; 46; 78; 73/96 (No es); 25; 27; 35; 54; 14;
+Access Control II: 41/43 46/48; 60/62; 69/74; 7/9 12; 19/25; 34/39;
+Web application security: 9; 9; Studiati la risposta; 7; 12/17; cerca; 20/24; cerca; 43/44; 43/49;
+Privacy: 3/4 21/22; 29/30; 7/14; 50 52; 35/37; 54; 66 69; Studiati la risposta;
