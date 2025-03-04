@@ -1,0 +1,164 @@
+Acronimi:
+
+A
+  ACK -> Acknowledgments
+  ADP -> Address resolution protocol
+  AIMD -> Additive increase multiplicative decrease
+  AP -> Access point
+  API -> Application programming interface
+  ARP -> Address resolution protocol
+  ARQ -> Automatic repeat request
+  AS -> Autonomous system
+
+B
+  BBR -> Bottleneck bandwidth and roundtrip propagation time
+  BDP -> Bandwith deelay product
+  BGP -> Border gateway protocol
+  BPDU -> Bridge protocol data unit
+  BSS -> Basic service set
+
+C
+  CA -> Congestion avoidance
+  CDMA -> Code division multiple access
+  CDN -> Content delivery networks
+  CFI -> Canonical format indicator
+  CIDR -> Classless inter-domain routing
+  CRC -> Cyclic redundancy check
+  CSMA -> Carrier sense multiple access
+  CTS -> Clear to send
+  CW -> Continuous wave
+  CWND -> Congestion window
+
+D
+  DDoS -> Distributed denial of service (Attacco più stupido ma bello della storia, provateci a casa)
+  DHCP -> Dynamic host configuration protocol
+  DIFS -> Distributed inter-frame space
+  DNS -> Domain name system
+  DP -> Destination port
+  DSL -> Digital subscriber line
+  DUs -> Data units
+  DV -> Distance vector
+
+E
+  ECN -> Explicit congestion notification
+  EDC -> Error detection and correction
+  ESS -> Extended service set
+
+F
+  FDM -> Frequency division multiplexing
+  FDMA -> Frequency division multiple access
+  FR -> Fast recovery
+  FTP -> File transfer protocol
+  FTTH -> Fiber to the home
+
+G
+  GARR -> Gestione ampliamento rete ricerca
+
+H
+  HOL -> Head of line
+  HTML -> Hypertext markup language
+  HTTP -> Hypertext transfer protocol
+  HTTPS -> Hypertext transfer protocol secure
+
+I
+  ICANN -> Internet corporation for assigned names and numbers
+  ICMP -> Internet control message protocol
+  ID -> Identifier (spesso utilizzato come identification number)
+  IEEE -> Institute of electrical and electronics engineers
+  IETF -> Internet engineering task force
+  IMAP -> Internet mail access protocol
+  IP -> Internet protocol
+  IPv* -> Internet protocol version *
+  ISP -> Internet service provider
+  IXP -> Internet exchange point
+
+J
+
+K
+
+L
+  LAN -> Local area network
+  LLC -> Logical link control
+  LS -> Link state
+
+M
+  MAC -> Media access control
+  MSS -> Maximum segment size
+  MTA -> Mail transfer agent
+  MTU -> Maximum transfer unit
+
+N
+  NACK -> Negative acknowledgments
+  NAT -> Network address translation
+  NetID -> Network identifier
+  NIC -> Network interface card
+  NSFnet -> National science foundation network
+  NTP -> Network time protocol
+  NTW -> Network
+
+O
+  OSPF -> Open shortest path first
+
+P
+  P2P -> Peer to peer
+  PCI -> Protocol control information
+  PDU -> Protocol data unit
+  POP3 -> Post office protocol
+
+Q
+
+R
+  RFC -> Request for comments
+  RIB -> Routing information base
+  RIP -> Routing information protocol
+  RR -> Requested records
+  RTO -> Retransmission timeout
+  RTP -> Real time transport protocol
+  RTS -> Request to send
+  RTT -> Round trip time
+  RWND -> Reception window
+
+S
+  SAP -> Service access points
+  SDU -> Service data unit
+  SIFS -> Short inter-frame space
+  SIP -> Session initiation protocol
+  SMTP -> Simple mail transfer protocol
+  SNMP -> Simple network management protocol
+  SO -> Sistema operativo
+  SP -> Source port
+  SS -> Slow start
+  SSL -> Secure sockets layer
+  SSTH -> Slow start trashold
+  STA -> Stazione wireless
+  STP -> Spanning tree protocol
+
+T
+  TCP -> Transmission control protocol
+  TDM -> Time divisione multiplexing
+  TDMA -> Time division multiple access
+  TLD -> Top level domain
+  TLS -> Transport Layer Security
+  ToS -> Type of service
+  TP -> Twisted pair
+  TTL -> Time to live
+
+U
+  UDP -> User datagram protocol
+  URL -> Uniform resource locator
+
+V
+  VLAN -> Virtual local area network
+
+W
+  WLAN -> Wireless local area network
+  Wlow -> Puntatore low
+  Wt -> Finestra di trasmissione
+  Wr -> Finestra di ricezione
+  Wup -> Puntatore up
+
+X
+
+Y
+
+Z   

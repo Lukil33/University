@@ -1,0 +1,65 @@
+1) SS, SSTH = 6, CWND = 1, non perdo niente
+
+	inv 1
+[2-3]	ric Ack2
+	inv 2
+	inv 3
+[3-5]	ric Ack3
+	inv 4
+	inv 5
+[4-7]	ric Ack4
+	inv 6
+	inv 7
+[5-9]	ric Ack5
+	inv 8
+	inv 9
+[6-11]	ric Ack6	Appena ho finito di inviare i nuovi pacchetti passo in CA perché la dim della CWND == SSTH
+	inv 10
+	inv 11
+[7-12]	ric Ack7
+	inv 12
+[8-13]	ric Ack8
+	inv 13
+[9-14]	ric Ack9
+	inv 14
+[10-15]	ric Ack10
+	inv 15
+[11-16]	ric Ack11
+	inv 16
+[12-18]	ric Ack12
+	inv 17
+	inv 18
+continua di 1 finché non si ritorna all'inizio
+
+2) CA, CWND = 8, perdo i pacchetti 2 e 6
+[1-8]	inv 1
+	inv 2
+	inv 3
+	inv 4
+	inv 5
+	inv 6
+	inv 7
+	inv 8
+	ric Ack 2
+[2-9]	inv 9
+	ric Ack 2 dup 1
+	ric Ack 2 dup 2
+[2-8]	ric Ack 2 dup 3	Successivamente al terzo duplicato si passa in Fast Recovery, la SSTH = (CWND/2) -> SSTH = 4
+	inv 2
+[2-9]	ric Ack 2 dup 4
+[2-10]	ric Ack 2 dup 5
+	inv 10
+[2-11]	ric Ack 2 dup 6
+	inv 11
+[6-12]	ric Ack 6	Vado in Ack parziale CWND = dimensione della finestra - pacchetti ackati + 1
+	inv 6
+	inv 12
+[6-13]	ric Ack 6 dup 1
+	inv 13
+[6-14]	ric Ack 6 dup 2
+	inv 14
+[12-15]	ric Ack 12
+
+	
+	
+	
