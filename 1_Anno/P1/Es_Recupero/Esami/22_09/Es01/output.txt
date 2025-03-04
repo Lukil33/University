@@ -1,0 +1,8 @@
+30
+45
+39
+49
+43
+15
+61
+Bjarne Stroustrup, The C++ Programming Language (4th Edition) - 61

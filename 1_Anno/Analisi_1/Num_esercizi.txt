@@ -1,0 +1,29 @@
+Anno: 2021-2022
+Estremi - 5
+Studio funzioni - 16
+N.complessi - 9
+Integrali - 16
+Taylor - 4
+Limiti - 9
+Derivate - 5
+EDO - 11
+
+Anno: 2022-2023
+Estremi - 5
+Studio funzioni - 13
+N.complessi - 9
+Integrali - 15
+Taylor - 5
+Limiti - 12
+Derivate - 4
+EDO - 12
+
+risultati totali per esame:
+Estremi - 1
+Studio funzioni - 3
+N. complessi - 2
+Integrali - 3
+Taylor - 1
+Derivate - 1
+Limiti - 2
+EDO - 2

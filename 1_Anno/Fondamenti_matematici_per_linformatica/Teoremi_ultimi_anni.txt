@@ -1,0 +1,8 @@
+1 - 2015 Congiungibilità tra cammini
+2 - 2021 Albero copertura grafi
+2 - 2016 Esistenza e unicità del resto
+3 - 2023 Teorema RSA
+2 - 2023 definizioni grafo finito
+2 - 2018 Numeri primi
+2 - 2022 Cinese del resto
+1 - 2023 Gradi e lati
