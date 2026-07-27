@@ -1,4 +1,5 @@
-Questa è la repository con tutti i materiali dei corsi da me seguiti fino in data odierna, i corsi aggiunti al momento sono:
+Questa è la repository con tutti i materiali dei corsi da me seguiti durante la mia laurea triennale in Informatica seguita presso L'Università di Trento.
+I corsi seguiti sono stati i seguenti:
 
 1° Anno:
  - Analisi 1 : (Pdf lezioni, cheat sheet)
@@ -27,3 +28,9 @@ Questa è la repository con tutti i materiali dei corsi da me seguiti fino in da
  - Computability and computational complexity: (Dispense)
  - Machine Learning: (Pdf lezioni, dispense, esercizi)
  - Tirocinio
+
+Nest:
+ - Random junk che comprende corsi di tutorato individuali o progetti personali
+
+Tesi:
+ - Mantaining Hitting Set in Temporal Hypergraph
